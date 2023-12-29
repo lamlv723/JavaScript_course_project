@@ -3,7 +3,7 @@ This repository is to store practices from [The Complete JavaScript Course](http
 
 # 🚀 Demo
 
-### 🍽️ Foriky - Food Recipe Hanbook
+### 🍽️ Foriky - Food Recipe Handbook
 [Try it now](https://forkify-lam.netlify.app)
 
 List of all [search queries](https://forkify-api.herokuapp.com/phrases.html) available.
